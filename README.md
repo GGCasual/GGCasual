@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Glenn Favorito's Github Portfolio!
 
 <!--
 **GGCasual/GGCasual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
