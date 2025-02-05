@@ -3,15 +3,13 @@
 I am deeply committed to the field of cybersecurity and enjoy addressing complex challenges through practical, hands-on projects. These initiatives, ranging from vulnerability management to threat detection, enable me to engage with the dynamic and constantly evolving cybersecurity landscape. I invite you to explore these projects and learn more about the efforts I have dedicated to enhancing security operations and processes.
 
 
-## ⚠️ Vulnerability Management Projects
-- WIP
-
+## ⚠️ Vulnerability Management Projects (WIP)
 - **[Vulnerability Management Program Implementation](https://github.com/GGCasual/Vulnerability-Management-Program)**
 <!--
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 -->
-## 🚨 Threat Hunting and Security Operations
-- WIP
+## 🚨 Threat Hunting and Security Operations (WIP)
+- **[Mini SOC and Honeynet on Azure](https://github.com/GGCasual/Azure-Honeynet-SOC)**
 <!--- 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 -->

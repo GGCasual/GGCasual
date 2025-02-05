@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Azure-Honeynet-SOC"
+		},
+		{
+			"path": "../Vulnerability-Management-Program"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
