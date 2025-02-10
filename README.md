@@ -10,9 +10,9 @@ I am deeply committed to the field of cybersecurity and enjoy addressing complex
 -->
 ## 🚨 Threat Hunting and Security Operations (WIP)
 - **[Mini SOC and Honeynet on Azure](https://github.com/GGCasual/Azure-Honeynet-SOC)**
-<!--- 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
--->
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GGCasual/Threat-Hunting-Tor-Scenario)**
+
 
 <hr/>
 

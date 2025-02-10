@@ -1,13 +1,20 @@
 {
 	"folders": [
 		{
+			"name": "GGCasual",
+			"path": "."
+		},
+		{
+			"name": "Azure-Honeynet-SOC",
 			"path": "../Azure-Honeynet-SOC"
 		},
 		{
+			"name": "Vulnerability-Management-Program",
 			"path": "../Vulnerability-Management-Program"
 		},
 		{
-			"path": "."
+			"name": "Threat-Hunting-Tor-Scenario",
+			"path": "../Threat-Hunting-Tor-Scenario"
 		}
 	],
 	"settings": {}
