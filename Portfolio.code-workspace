@@ -9,12 +9,12 @@
 			"path": "../Azure-Honeynet-SOC"
 		},
 		{
-			"name": "Vulnerability-Management-Program",
-			"path": "../Vulnerability-Management-Program"
-		},
-		{
 			"name": "Threat-Hunting-Tor-Scenario",
 			"path": "../Threat-Hunting-Tor-Scenario"
+		},
+		{
+			"name": "Vulnerability-Management-Program",
+			"path": "../Vulnerability-Management-Program"
 		}
 	],
 	"settings": {}
