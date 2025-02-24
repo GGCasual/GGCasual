@@ -8,7 +8,7 @@ I am deeply committed to the field of cybersecurity and enjoy addressing complex
 <!--
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 -->
-## 🚨 Threat Hunting and Security Operations (WIP)
+## 🚨 Threat Hunting and Security Operations
 - **[Mini SOC and Honeynet on Azure](https://github.com/GGCasual/Azure-Honeynet-SOC)**
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GGCasual/Threat-Hunting-Tor-Scenario)**
