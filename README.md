@@ -3,7 +3,7 @@
 I am deeply committed to the field of cybersecurity and enjoy addressing complex challenges through practical, hands-on projects. These initiatives, ranging from vulnerability management to threat detection, enable me to engage with the dynamic and constantly evolving cybersecurity landscape. I invite you to explore these projects and learn more about the efforts I have dedicated to enhancing security operations and processes.
 
 
-## ⚠️ Vulnerability Management Projects (WIP)
+## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/GGCasual/Vulnerability-Management-Program)**
 <!--
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
